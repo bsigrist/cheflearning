@@ -1,3 +1,4 @@
 file 'C:\Users\bsigrist\Documents\GitHub\cheflearning\settings.ini' do
-    content 'greeting=hello world'
+    #content 'greeting=hello chef'
+    action :delete
   end
